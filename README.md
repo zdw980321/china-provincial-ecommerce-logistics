@@ -1,12 +1,12 @@
-# Provincial e-commerce logistics divergence in China
+# A provincial dissimilarity index for diagnosing e-commerce logistics flows in China
 
-This repository reproduces the provincial distribution analysis in *A within region decomposition of provincial divergence between online retail registration and express parcel acceptance in China 2021 to 2024*.
+This repository reproduces the provincial distribution analysis in *A provincial dissimilarity index for diagnosing e-commerce logistics flows in China*.
 
 The analysis compares accepted express parcel volume with physical-goods online retail across China's 31 provinces for 2021-2024. It generates the three-region and four-region dissimilarity decompositions and the four figures supplied with the manuscript.
 
 ## Inputs
 
-`data/provincial_gap_panel.csv` is a derived provincial panel assembled from the public annual operating bulletins republished by the Ministry of Transport and Table 15-13 of the China Statistical Yearbook 2022-2025. The column definitions and source citations appear in the manuscript and its supplementary workbook.
+`data/provincial_gap_panel.csv` is a derived provincial panel assembled from the public annual operating bulletins republished by the Ministry of Transport and Table 15-13 of the China Statistical Yearbook 2022-2025. The manuscript provides the column definitions and source citations.
 
 ## Reproduce
 
